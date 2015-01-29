@@ -1,2 +1,2 @@
-Gentoo PHP Docker
-=================
+Gentoo Sphinx Search Docker
+===========================
